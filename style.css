@@ -1,0 +1,16 @@
+.navbar {
+
+    background-color: rgba(0, 0, 0, 0.932);
+}
+/* contact */
+
+input[type=submit]{
+    background-color: blue;
+    color: white;
+    font-style: normal;
+    font-weight: bolder;
+    border: yellow;
+    cursor: pointer;
+    padding: 16px 32px;
+    margin: 4px 2px;
+}
