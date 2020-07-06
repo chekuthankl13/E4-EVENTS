@@ -38,3 +38,35 @@ input[type=submit]{
     background-color: rgb(250, 250, 34);
     margin:0 auto 2rem;
 }
+#about{
+    height: 100vh;
+    width: 100%;
+    background-image: url('images/about.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 2;
+    
+}
+.text{
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    color: rgb(255, 255, 254);
+    text-align: center;
+    padding-top: 20%;
+    font-display: inherit;
+}
+#contact{
+    width: 100%;
+    height: 100vh;
+    background-image: url('images/getin\ touch.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.getintouch{
+    color: white;
+    font-weight: bold;
+}
