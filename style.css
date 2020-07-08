@@ -70,3 +70,14 @@ input[type=submit]{
     color: white;
     font-weight: bold;
 }
+#footer{
+    width: 100%;
+   
+    bottom: 0;
+    left: 0;
+    background-color: rgb(226, 194, 12);
+    text-align: center;
+    color: white;
+}
+
+ 
