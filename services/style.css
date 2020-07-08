@@ -9,6 +9,7 @@
     text-align: center;
     box-shadow: 2px 2px 3px #999;
     z-index: 3;
+    padding-right: 10px;
 }
 .my-float{
     margin-top: 22px;
